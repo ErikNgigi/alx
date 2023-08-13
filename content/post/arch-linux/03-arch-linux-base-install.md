@@ -5,6 +5,7 @@ date: 2023-04-29T09:45:37+03:01
 author: "Eric Ngigi"
 image: "/images/post/arch/geowaves.webp"
 tags: ["Arch Linux", "Tutorial"]
+draft: true
 ---
 
 The sole purpose of this notes is to help me remember my workflow. Here are some of the things I always do.

@@ -5,6 +5,7 @@ date: 2023-07-15
 author: "Eric Ngigi"
 image: "/images/post/aws/aws_banner.webp"
 tags: ["Linux", "Cloud Computing", "AWS"]
+draft: true
 ---
 
 # Introduction:

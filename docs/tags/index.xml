@@ -1,53 +1,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Eric Ngigi</title>
+    <title>Tags on Lenny Kiruthu</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Eric Ngigi</description>
+    <description>Recent content in Tags on Lenny Kiruthu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Aug 2023 09:45:37 +0303</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AWS</title>
-      <link>/tags/aws/</link>
-      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <title>Data Science</title>
+      <link>/tags/data-science/</link>
+      <pubDate>Sat, 12 Aug 2023 09:45:37 +0303</pubDate>
       
-      <guid>/tags/aws/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cloud Computing</title>
-      <link>/tags/cloud-computing/</link>
-      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cloud-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>/tags/linux/</link>
-      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Arch Linux</title>
-      <link>/tags/arch-linux/</link>
-      <pubDate>Sat, 29 Apr 2023 09:45:37 +0301</pubDate>
-      
-      <guid>/tags/arch-linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tutorial</title>
-      <link>/tags/tutorial/</link>
-      <pubDate>Sat, 29 Apr 2023 09:45:37 +0301</pubDate>
-      
-      <guid>/tags/tutorial/</guid>
+      <guid>/tags/data-science/</guid>
       <description></description>
     </item>
     

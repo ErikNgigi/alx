@@ -1,8 +1,8 @@
 ---
-title: "My Journey as an AWS Cloud Engineer"
+title: "My Journey as an Data Scientist"
 subtitle: "Showcasing my journey through lines of code and innovative solutions."
 date: 2023-08-10
-author: "Eric Ngigi"
+author: "Lenny Kiruthu"
 # image: "/images/banner/alx_banner.webp"
 draft: false
 excludeFromTopNav: true
@@ -11,6 +11,12 @@ showComments: false
 showTOC: false
 ---
 # Crowdsourced Angel Investor Marketplace - WebCTR Project
+
+You can view the group slides by clicking on the link: [Group_Chui_Slides](/documents/Group_Chui_Slides.pdf)
+
+Watch the video and explore the tangible results of our hard work and dedication.
+
+{{< youtube 9oYeDLe0hcw >}}
 
 Welcome to the Crowdsourced Angel Investor Marketplace project! This initiative aims to create a dynamic and user-friendly website that serves as a platform for connecting potential angel investors with exciting startup opportunities. The project leverages the power of WebCTR to host interactive sessions that facilitate seamless communication between users.
 
@@ -44,64 +50,58 @@ In the fast-paced world of startups, funding is often a critical factor in bring
 
 Thank you for your interest in the Crowdsourced Angel Investor Marketplace project. We're excited to bring together visionary entrepreneurs and passionate investors on a single platform. Let's collaborate and drive innovation together!
 
-You can view the group slides by clicking on the link: [Group Work Document](/documents/milestone10_group_work.pdf)
+<!-- --- -->
 
-Watch the video and explore the tangible results of our hard work and dedication.
+<!-- # Inventory Management and Automated Tax Returns System with Crater Invoicing -->
 
-{{< youtube y4mvNF_Z6JA >}}
+<!-- Welcome to the Inventory Management and Automated Tax Returns System project, powered by Crater Invoicing! This project combines the robust features of Crater Invoicing, an open-source invoicing application, with advanced functionalities to streamline inventory management and automate tax return processes. -->
 
----
+<!-- ## Project Overview -->
 
-# Inventory Management and Automated Tax Returns System with Crater Invoicing
+<!-- In today's competitive business landscape, efficient inventory management and accurate tax reporting are essential for sustainable growth. This project tackles these challenges by leveraging the power of Crater Invoicing to create a comprehensive system that not only handles invoicing but also seamlessly integrates inventory management and automated tax returns. -->
 
-Welcome to the Inventory Management and Automated Tax Returns System project, powered by Crater Invoicing! This project combines the robust features of Crater Invoicing, an open-source invoicing application, with advanced functionalities to streamline inventory management and automate tax return processes.
+<!-- ## Key Features -->
 
-## Project Overview
+<!-- - **Inventory Tracking:** The system enables businesses to manage their inventory in real-time. You can easily add, update, and track items, ensuring optimal stock levels and minimizing shortages or overstock situations. -->
 
-In today's competitive business landscape, efficient inventory management and accurate tax reporting are essential for sustainable growth. This project tackles these challenges by leveraging the power of Crater Invoicing to create a comprehensive system that not only handles invoicing but also seamlessly integrates inventory management and automated tax returns.
+<!-- - **Automated Tax Calculation:** The system utilizes up-to-date tax regulations to automatically calculate taxes for each transaction. This ensures accurate tax reporting and reduces the risk of errors. -->
 
-## Key Features
+<!-- - **Tax Returns Automation:** The system automates the process of generating tax reports based on transaction data. This feature saves time and effort, enabling businesses to focus on core activities rather than manual tax calculations. -->
 
-- **Inventory Tracking:** The system enables businesses to manage their inventory in real-time. You can easily add, update, and track items, ensuring optimal stock levels and minimizing shortages or overstock situations.
+<!-- - **Seamless Integration:** Crater Invoicing's user-friendly interface seamlessly incorporates the inventory management and tax automation features, making it easy for users to access all functionalities from a single platform. -->
 
-- **Automated Tax Calculation:** The system utilizes up-to-date tax regulations to automatically calculate taxes for each transaction. This ensures accurate tax reporting and reduces the risk of errors.
+<!-- - **Customizable Reporting:** Generate comprehensive reports on inventory levels, transactions, and tax calculations. These reports provide insights into business operations and facilitate informed decision-making. -->
 
-- **Tax Returns Automation:** The system automates the process of generating tax reports based on transaction data. This feature saves time and effort, enabling businesses to focus on core activities rather than manual tax calculations.
+<!-- ## Technologies Used -->
 
-- **Seamless Integration:** Crater Invoicing's user-friendly interface seamlessly incorporates the inventory management and tax automation features, making it easy for users to access all functionalities from a single platform.
+<!-- - **Crater Invoicing:** The core application is based on Crater Invoicing, an open-source invoicing and billing solution built using Laravel and Vue.js. -->
 
-- **Customizable Reporting:** Generate comprehensive reports on inventory levels, transactions, and tax calculations. These reports provide insights into business operations and facilitate informed decision-making.
+<!-- - **Database:** The system uses a relational database to store inventory data, transactions, and tax-related information. -->
 
-## Technologies Used
+<!-- - **Automated Tax Engine:** A custom automated tax engine is developed, incorporating tax regulations and rules to accurately calculate taxes. -->
 
-- **Crater Invoicing:** The core application is based on Crater Invoicing, an open-source invoicing and billing solution built using Laravel and Vue.js.
+<!-- - **Reporting Framework:** Custom reporting modules are implemented to generate insightful reports on inventory, transactions, and tax-related data. -->
 
-- **Database:** The system uses a relational database to store inventory data, transactions, and tax-related information.
+<!-- ## Getting Started -->
 
-- **Automated Tax Engine:** A custom automated tax engine is developed, incorporating tax regulations and rules to accurately calculate taxes.
+<!-- 1. Clone the Crater Invoicing repository: `git clone https://github.com/bytefury/crater.git` -->
 
-- **Reporting Framework:** Custom reporting modules are implemented to generate insightful reports on inventory, transactions, and tax-related data.
+<!-- 2. Set up Crater Invoicing following the installation instructions provided in the repository. -->
 
-## Getting Started
+<!-- 3. Extend Crater Invoicing functionalities to include inventory management and automated tax returns. Refer to the documentation for guidance. -->
 
-1. Clone the Crater Invoicing repository: `git clone https://github.com/bytefury/crater.git`
+<!-- 4. Configure the tax engine by integrating tax rules and regulations applicable to your region. -->
 
-2. Set up Crater Invoicing following the installation instructions provided in the repository.
+<!-- 5. Develop or integrate reporting modules to generate inventory and tax-related reports. -->
 
-3. Extend Crater Invoicing functionalities to include inventory management and automated tax returns. Refer to the documentation for guidance.
+<!-- 6. Test the system thoroughly to ensure accurate tax calculations and seamless inventory management. -->
 
-4. Configure the tax engine by integrating tax rules and regulations applicable to your region.
+<!-- ## Contributing -->
 
-5. Develop or integrate reporting modules to generate inventory and tax-related reports.
+<!-- Contributions to this project are encouraged! If you have suggestions, improvements, or bug fixes, please submit them as issues or pull requests to this repository. -->
 
-6. Test the system thoroughly to ensure accurate tax calculations and seamless inventory management.
+<!-- ## Contact -->
 
-## Contributing
+<!-- For inquiries or further information, please contact our team at [info@inventorytaxsystem.com](mailto:info@inventorytaxsystem.com). -->
 
-Contributions to this project are encouraged! If you have suggestions, improvements, or bug fixes, please submit them as issues or pull requests to this repository.
-
-## Contact
-
-For inquiries or further information, please contact our team at [info@inventorytaxsystem.com](mailto:info@inventorytaxsystem.com).
-
-Thank you for your interest in the Inventory Management and Automated Tax Returns System project. With Crater Invoicing as the foundation, we're excited to provide businesses with a comprehensive solution to enhance their inventory management and automate tax reporting processes. Let's streamline operations and boost efficiency together!
+<!-- Thank you for your interest in the Inventory Management and Automated Tax Returns System project. With Crater Invoicing as the foundation, we're excited to provide businesses with a comprehensive solution to enhance their inventory management and automate tax reporting processes. Let's streamline operations and boost efficiency together! -->

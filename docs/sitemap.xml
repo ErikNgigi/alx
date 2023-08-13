@@ -11,6 +11,18 @@
     <loc>/more/</loc>
     <lastmod>2023-08-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/data-science/</loc>
+    <lastmod>2023-08-12T09:45:37+03:03</lastmod>
+  </url><url>
+    <loc>/post/alx/data_science/</loc>
+    <lastmod>2023-08-12T09:45:37+03:03</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2023-08-12T09:45:37+03:03</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-08-12T09:45:37+03:03</lastmod>
+  </url><url>
     <loc>/more/about/</loc>
     <lastmod>2023-08-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -19,39 +31,6 @@
   </url><url>
     <loc>/more/templates/</loc>
     <lastmod>2023-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/aws/</loc>
-    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/cloud-computing/</loc>
-    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/linux/</loc>
-    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/aws/aws-outline/</loc>
-    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/arch-linux/</loc>
-    <lastmod>2023-04-29T09:45:37+03:01</lastmod>
-  </url><url>
-    <loc>/post/arch-linux/03-arch-linux-base-install/</loc>
-    <lastmod>2023-04-29T09:45:37+03:01</lastmod>
-  </url><url>
-    <loc>/tags/tutorial/</loc>
-    <lastmod>2023-04-29T09:45:37+03:01</lastmod>
-  </url><url>
-    <loc>/post/arch-linux/02-arch-linux-base-install/</loc>
-    <lastmod>2023-04-29T09:45:37+03:02</lastmod>
-  </url><url>
-    <loc>/post/arch-linux/01-arch-linux-base-install/</loc>
-    <lastmod>2023-04-29T09:45:37+03:03</lastmod>
   </url><url>
     <loc>/categories/</loc>
   </url>

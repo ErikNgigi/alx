@@ -1,5 +1,5 @@
 baseurl = ""
-title = "Eric Ngigi"
+title = "Lenny Kiruthu"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -17,7 +17,7 @@ home = ["HTML", "RSS"]
 [params]
   header_image = "images/banner/homepage_banner.webp"
   SEOTitle = "Leading with Innovation"
-  description = "Eric Ngigi, Programmer, Open Source Enthusiast, Life Explorer | Here is Eric Ngigi's blog, discovering a bigger world with you."
+  description = "Lenny Kiruthu, Data Science, Algorithmic Trader, Life Explorer."
   keyword = "Eric, eric, Eric's Blog, Web, PaaS, SaaS, Kubernetes, Microservice, Docker, Linux, Open-Source, DevOps"
   slogan = "Leading with Innovation"
   image_404 = "images/404/404.webp"
@@ -25,8 +25,8 @@ home = ["HTML", "RSS"]
   omit_categories = false
 
   # Sidebar settings
-  sidebar_about_description = "Software Developer. Open Source Enthusiast. Life Adventurer"
-  sidebar_avatar = "images/about_me/profile_image.webp"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_about_description = "Unlocking insights through code and data. Join me on a journey of transforming complex algorithms into actionable intelligence as I strive to become a quantitative developer and aspiring data scientist."
+  sidebar_avatar = "images/about_me/lenny_profile_picture.webp"      # use absolute URL, seeing it's used in both `/` and `/about/`
   featured_tags = true
   featured_condition_size = 1
   support_button = false
@@ -36,14 +36,14 @@ home = ["HTML", "RSS"]
 
   [params.social]
   rss            = false 
-  email          = "ericmosesngigi@gmail.com"
+  email          = "kiruthulenny@gmail.com"
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
   #twitter       = "full profile url in twitter"
-  linkedin       = "https://www.linkedin.com/in/erik-ngigi"
+  linkedin       = "https://www.linkedin.com/in/lenny-kiruthu"
   # stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
   #instagram     = "full profile url in instagram"
-  github         = "https://github.com/ErikNgigi"
+  # github         = "https://github.com/ErikNgigi"
   # wechat         = "your wechat qr code image"
   #medium        = "full profile url in medium"
   #slack         = "full workspace url in slack"
@@ -61,9 +61,9 @@ home = ["HTML", "RSS"]
   [[params.addtional_menus]]
   title =  "Portfolio"
   href =  "/more/portfolio/"
-  [[params.addtional_menus]]
-  title = "Pitch"
-  href = "/more/pitch/"
+  # [[params.addtional_menus]]
+  # title = "Pitch"
+  # href = "/more/pitch/"
   [[params.addtional_menus]]
   title =  "About"
   href =  "/more/about/"

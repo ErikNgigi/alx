@@ -5,6 +5,7 @@ date: 2023-04-29T09:45:37+03:03
 author: "Eric Ngigi"
 image: "/images/post/arch/geowaves.webp"
 tags: ["Arch Linux", "Tutorial"]
+draft: true
 ---
 
 

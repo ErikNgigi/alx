@@ -5,6 +5,7 @@ date: 2023-04-29T09:45:37+03:02
 author: "Eric Ngigi"
 image: "/images/post/arch/geowaves.webp"
 tags: ["Arch Linux", "Tutorial"]
+draft: true
 ---
 
 In post installation we will be using a lot of `sudo`. I'm not responsible if you broke your newly installed system.
