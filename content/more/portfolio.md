@@ -12,6 +12,12 @@ showTOC: false
 ---
 # Crowdsourced Angel Investor Marketplace - WebCTR Project
 
+You can view the group slides by clicking on the link: [Group Work Document](/documents/milestone10_group_work.pdf)
+
+Watch the video and explore the tangible results of our hard work and dedication.
+
+{{< youtube y4mvNF_Z6JA >}}
+
 Welcome to the Crowdsourced Angel Investor Marketplace project! This initiative aims to create a dynamic and user-friendly website that serves as a platform for connecting potential angel investors with exciting startup opportunities. The project leverages the power of WebCTR to host interactive sessions that facilitate seamless communication between users.
 
 ## Project Overview
@@ -44,11 +50,6 @@ In the fast-paced world of startups, funding is often a critical factor in bring
 
 Thank you for your interest in the Crowdsourced Angel Investor Marketplace project. We're excited to bring together visionary entrepreneurs and passionate investors on a single platform. Let's collaborate and drive innovation together!
 
-You can view the group slides by clicking on the link: [Group Work Document](/documents/milestone10_group_work.pdf)
-
-Watch the video and explore the tangible results of our hard work and dedication.
-
-{{< youtube y4mvNF_Z6JA >}}
 
 ---
 

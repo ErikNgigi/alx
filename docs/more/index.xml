@@ -88,6 +88,14 @@
       
       <guid>/more/portfolio/</guid>
       <description>&lt;h1 id=&#34;crowdsourced-angel-investor-marketplace---webctr-project&#34;&gt;Crowdsourced Angel Investor Marketplace - WebCTR Project&lt;/h1&gt;
+&lt;p&gt;You can view the group slides by clicking on the link: &lt;a href=&#34;/documents/milestone10_group_work.pdf&#34; &gt;Group Work Document&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;Watch the video and explore the tangible results of our hard work and dedication.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/y4mvNF_Z6JA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 &lt;p&gt;Welcome to the Crowdsourced Angel Investor Marketplace project! This initiative aims to create a dynamic and user-friendly website that serves as a platform for connecting potential angel investors with exciting startup opportunities. The project leverages the power of WebCTR to host interactive sessions that facilitate seamless communication between users.&lt;/p&gt;
 &lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
 &lt;p&gt;In the fast-paced world of startups, funding is often a critical factor in bringing innovative ideas to life. This project addresses this need by providing a centralized platform where startup founders can present their ideas, business plans, and pitches to a pool of potential angel investors. Similarly, investors can discover promising ventures and engage in real-time discussions with entrepreneurs through the WebCTR platform.&lt;/p&gt;
@@ -128,14 +136,6 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Thank you for your interest in the Crowdsourced Angel Investor Marketplace project. We&amp;rsquo;re excited to bring together visionary entrepreneurs and passionate investors on a single platform. Let&amp;rsquo;s collaborate and drive innovation together!&lt;/p&gt;
-&lt;p&gt;You can view the group slides by clicking on the link: &lt;a href=&#34;/documents/milestone10_group_work.pdf&#34; &gt;Group Work Document&lt;/a&gt;
-&lt;/p&gt;
-&lt;p&gt;Watch the video and explore the tangible results of our hard work and dedication.&lt;/p&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/y4mvNF_Z6JA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
 &lt;hr&gt;
 &lt;h1 id=&#34;inventory-management-and-automated-tax-returns-system-with-crater-invoicing&#34;&gt;Inventory Management and Automated Tax Returns System with Crater Invoicing&lt;/h1&gt;
 &lt;p&gt;Welcome to the Inventory Management and Automated Tax Returns System project, powered by Crater Invoicing! This project combines the robust features of Crater Invoicing, an open-source invoicing application, with advanced functionalities to streamline inventory management and automate tax return processes.&lt;/p&gt;
