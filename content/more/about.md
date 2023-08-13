@@ -1,6 +1,7 @@
 ---
 title: "About Me"
 subtitle: "Expert Linux Advocate and DevOps Engineer"
+image: "/images/banner/banner_contact.webp"
 date: 2023-08-12
 showTOC: false
 ---
@@ -28,3 +29,29 @@ My advocacy for free software underscores my unwavering belief in the transforma
 Should you seek a Linux specialist whose fervor for free software is complemented by a reservoir of technical competencies, your search concludes here. Together, we can craft tailor-made solutions to address your organizational requirements with efficacy. For an in-depth overview of my professional trajectory, please refer to my [LinkedIn](https://www.linkedin.com/in/erik-ngigi) profile. You can also access my comprehensive [resume](/documents/Curriculum-Vitae.pdf) for a detailed professional background.
 
 I maintain a blog focused primarily on my exploits in software development and DevOps. This platform is replete with an array of how-to guides, tutorials, and insights drawn from my personal project undertakings. If you wish to initiate contact, please direct your emails to [ericmosesngigi@gmail.com](mailto:ericmosesngigi@gmail.com)
+
+---
+
+## Professional IT Certification
+
+- **AWS Cloud Practitioner** *(Ongoing)*
+  - *Expected Completion Date:* September 2023
+  - **Description:** This certification from Amazon Web Services (AWS) validates my understanding of cloud concepts, AWS services, and the basics of cloud computing. It demonstrates my commitment to staying up-to-date with the latest cloud technologies and my ability to leverage AWS services to design and deploy scalable solutions.
+
+- **CompTIA A+**
+  - *Date of Completion:* June 2022
+  - **Description:** This certification covers essential IT operational roles and technical support. It verifies my knowledge in areas such as hardware, networking, mobile devices, operating systems, and security. With CompTIA A+, I have demonstrated competence in maintaining and troubleshooting various devices and systems.
+
+- **Microsoft Certified: Azure Fundamentals**
+  - *Date of Completion:* August 2021
+  - **Description:** This certification confirms my foundational knowledge of Microsoft Azure cloud services. It showcases my understanding of Azure services, cloud concepts, Azure pricing, SLA, and lifecycle, empowering me to work effectively with Microsoft's cloud platform.
+
+- **Certified Information Systems Security Professional (CISSP)**
+  - *Date of Completion:* December 2020
+  - **Description:** CISSP is a globally recognized certification in the field of information security. It validates my expertise in designing, implementing, and managing security programs and practices. This certification underscores my commitment to ensuring robust security measures across IT systems.
+
+- **Oracle Linux OCA**
+  - *Date of Completion:* July 2020
+  - **Description:** The Oracle Linux OCA certification demonstrates my proficiency in working with Oracle Linux systems. It validates my ability to perform essential administrative tasks such as installation, configuration, and troubleshooting. This certification highlights my expertise in Linux-based environments and my dedication to optimizing system performance.
+
+These certifications collectively showcase my commitment to professional development and my diverse skill set in various areas of IT, including cloud computing, security, and Linux administration. As technology continues to evolve, I am enthusiastic about expanding my knowledge and contributing to innovative solutions in the IT industry.

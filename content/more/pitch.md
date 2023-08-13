@@ -3,7 +3,7 @@ title: "Elevator Pitch"
 # subtitle: "Showcasing my journey through lines of code and innovative solutions."
 date: 2023-08-13
 author: "Eric Ngigi"
-# image: "/images/banner/alx_banner.webp"
+image: "/images/banner/pitch.webp"
 draft: false
 excludeFromTopNav: true
 showDate: true
