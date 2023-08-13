@@ -61,9 +61,9 @@ home = ["HTML", "RSS"]
   [[params.addtional_menus]]
   title =  "Portfolio"
   href =  "/more/portfolio/"
-  # [[params.addtional_menus]]
-  # title = "Pitch"
-  # href = "/more/pitch/"
+  [[params.addtional_menus]]
+  title = "Pitch"
+  href = "/more/pitch/"
   [[params.addtional_menus]]
   title =  "About"
   href =  "/more/about/"
